@@ -1,5 +1,5 @@
 # BallShooter
-A Unity3D ball shooting game, scripts made using C#
+A Unity3D ball shooting game, C# scripting.
 
 1. Use arrow keys to move left or right
 
